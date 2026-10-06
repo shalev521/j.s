@@ -15,3 +15,4 @@ let lastname = "elias";
 let fullname = my_name+lastname;
 let age = 16
 console.log(`my name is ${fullname}, i am ${age} years old`);
+console.log(hello);
